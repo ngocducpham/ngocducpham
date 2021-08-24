@@ -16,7 +16,7 @@
 ## 🚀 Languages and Tools:
 [<img align="left" alt="CSharp" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" />][vscode]
-[<img align="left" alt="GitHub" width="26px" src="https://icons8.com/icon/iEBcQcM9rnZ9/github" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/plasticine/100/000000/github.png" />][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color-glass/48/000000/sql.png" />]
 
@@ -29,7 +29,6 @@
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocducpham&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <br/>
 <br/>
