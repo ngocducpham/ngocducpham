@@ -1,5 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Hi there, I’m Duc</h1>
+<h3 align="center">I'm a college student.</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -12,20 +13,17 @@
 - ⚡ Fun fact: I’m a weeb 😝
 
 ### ❤ Connect with me:
+ <a href="https://www.youtube.com/channel/UCYme_m8SBYDCYfxXYiU5YEg" target="_blank"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/> </a>
+ <a href="https://www.facebook.com/ducitute" target="_blank"> <img src="https://img.icons8.com/color/96/000000/facebook.png"/> </a>
 
-[<img align="left" alt="NgocDuc | YouTube" width="48px" src="https://img.icons8.com/color/96/000000/youtube-squared.png" />][youtube]
-[<img align="left" alt="duciute | Facebook" width="48px" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
-
-<br />
-<br />
 
 ## 🚀 Languages and Tools:
 
-[<img align="left" alt="CSharp" width="48px" src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" />]
-[<img align="left" alt="Visual Studio Code" width="48px" src="https://img.icons8.com/fluency/96/000000/visual-studio-code-2019.png" />][vscode]
-[<img align="left" alt="GitHub" width="48px" src="https://img.icons8.com/plasticine/100/000000/github.png" />][github]
-[<img align="left" alt="JavaScript" width="48px" src="https://img.icons8.com/color/96/000000/javascript.png" />]
-[<img align="left" alt="Sql" width="48px" src="https://img.icons8.com/color-glass/96/000000/sql.png" />]
+<a href="#" target="_blank"> <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/96/000000/visual-studio-code-2019.png"/> </a>
+<a href="https://github.com/ngocducpham" target="_blank"> <img src="https://img.icons8.com/plasticine/100/000000/github.png"/> </a>
+<a href="https://github.com/ngocducpham" target="_blank"> <img src="https://img.icons8.com/color/96/000000/javascript.png"/> </a>
+<a href="https://github.com/ngocducpham" target="_blank"> <img src="https://img.icons8.com/color-glass/96/000000/sql.png"/> </a>
 
 <br />
 
@@ -46,7 +44,3 @@
 <br/>
 <br/>
 
-[youtube]: https://www.youtube.com/channel/UCYme_m8SBYDCYfxXYiU5YEg
-[facebook]: https://www.facebook.com/ducitute
-[vscode]: https://code.visualstudio.com/
-[github]: https://github.com/ngocducpham
