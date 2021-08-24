@@ -1,12 +1,15 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Hi there, I’m Duc</h1>
+<h5>I'm college students</h5>
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I’m a college students
+- 🔭 I’m currently leaning at HCMUTE
+ 
+- 🌱 I’m currently learning to become back-end developer
 
-- 🌱 I’m a fan of OOP
+- 👯 I’m looking to collaborate on everyone 
 
 - 🥅 2021 Goals: expect everything about OOP
 
