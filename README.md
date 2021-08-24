@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: I’m a weeb 😝
 
-### ❤ Connect with me:
+## ❤ Connect with me:
  <a href="https://www.youtube.com/channel/UCYme_m8SBYDCYfxXYiU5YEg" target="_blank"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/> </a>
  <a href="https://www.facebook.com/ducitute" target="_blank"> <img src="https://img.icons8.com/color/48/000000/facebook.png"/> </a>
 
