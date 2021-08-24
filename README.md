@@ -20,6 +20,8 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color-glass/48/000000/sql.png" />]
 
+<br />
+
 ## 📊 My Github Stats
 
   <br/>
