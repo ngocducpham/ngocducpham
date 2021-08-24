@@ -21,11 +21,11 @@
 
 ## 🚀 Languages and Tools:
 
-<img align="left" alt="CSharp" width="48px" src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" />
+[<img align="left" alt="CSharp" width="48px" src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" />]
 [<img align="left" alt="Visual Studio Code" width="48px" src="https://img.icons8.com/fluency/96/000000/visual-studio-code-2019.png" />][vscode]
 [<img align="left" alt="GitHub" width="48px" src="https://img.icons8.com/plasticine/100/000000/github.png" />][github]
-<img align="left" alt="JavaScript" width="48px" src="https://img.icons8.com/color/96/000000/javascript.png" />
-<img align="left" alt="Sql" width="48px" src="https://img.icons8.com/color-glass/96/000000/sql.png" />
+[<img align="left" alt="JavaScript" width="48px" src="https://img.icons8.com/color/96/000000/javascript.png" />]
+[<img align="left" alt="Sql" width="48px" src="https://img.icons8.com/color-glass/96/000000/sql.png" />]
 
 <br />
 
