@@ -22,8 +22,8 @@
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> </a>
 <a href="https://github.com/ngocducpham" target="_blank"> <img src="https://img.icons8.com/plasticine/48/000000/github.png"/> </a>
-<a href="https://github.com/ngocducpham" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-<a href="https://github.com/ngocducpham" target="_blank"> <img src="https://img.icons8.com/color-glass/48/000000/sql.png"/> </a>
+<a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+<a href="#" target="_blank"> <img src="https://img.icons8.com/color-glass/48/000000/sql.png"/> </a>
 
 ## 📊 My Github Stats
 
