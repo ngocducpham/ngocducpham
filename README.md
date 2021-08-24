@@ -8,17 +8,17 @@
 - ⚡ Fun fact: I’m a weeb 😝
 
 ### Connect with me:
-[<img align="left" alt="NgocDuc | YouTube" width="22px" src="https://img.icons8.com/color/96/000000/youtube-squared.png" />][youtube]
-[<img align="left" alt="duciute | Facebook" width="22px" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
+[<img align="left" alt="NgocDuc | YouTube" width="96px" src="https://img.icons8.com/color/96/000000/youtube-squared.png" />][youtube]
+[<img align="left" alt="duciute | Facebook" width="96px" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
 
 <br />
 
 ## 🚀 Languages and Tools:
-[<img align="left" alt="CSharp" width="26px" src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluency/96/000000/visual-studio-code-2019.png" />][vscode]
-[<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/plasticine/100/000000/github.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/96/000000/javascript.png" />]
-[<img align="left" alt="Sql" width="26px" src="https://img.icons8.com/color-glass/96/000000/sql.png" />]
+[<img align="left" alt="CSharp" width="96px" src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" />]
+[<img align="left" alt="Visual Studio Code" width="96px" src="https://img.icons8.com/fluency/96/000000/visual-studio-code-2019.png" />][vscode]
+[<img align="left" alt="GitHub" width="96px" src="https://img.icons8.com/plasticine/100/000000/github.png" />][github]
+[<img align="left" alt="JavaScript" width="96px" src="https://img.icons8.com/color/96/000000/javascript.png" />][]
+[<img align="left" alt="Sql" width="96px" src="https://img.icons8.com/color-glass/96/000000/sql.png" />][]
 
 <br />
 
