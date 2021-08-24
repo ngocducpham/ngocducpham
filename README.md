@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Hi there, I’m Duc</h1>
-<h5>I'm college students</h5>
+<h3 align="center">I'm college students from HMCUTE.</h3>
 
 ## 🙋‍♂️ About Me
 
