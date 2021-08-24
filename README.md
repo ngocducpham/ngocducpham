@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="![image](https://user-images.githubusercontent.com/70329271/130565877-d00f3653-cdc7-41f1-89d4-cffe0cf652a8.png)" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Hi there, I’m Duc</h1>
 <h3 align="center">I'm a college student.</h3>
 
