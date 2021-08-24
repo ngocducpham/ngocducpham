@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Hi there, I’m Duc</h1>
 <h3 align="center">I'm a college student.</h3>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me:
 
 - 👨‍🎓 I’m a college students
 
@@ -25,7 +25,7 @@
 <a href="https://github.com/ngocducpham" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 <a href="https://github.com/ngocducpham" target="_blank"> <img src="https://img.icons8.com/color-glass/48/000000/sql.png"/> </a>
 
-## 📊 My Github Stats
+## 📊 My Github Stats:
 
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ngocducpham&show_icons=true&count_private=true&theme=react&hide_border=true" /></a>
