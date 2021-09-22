@@ -35,13 +35,4 @@
   <br/>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocducpham&langs_count=8&count_private=true&layout=compact&theme=nord&hide_border=true" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ngocducpham&hide_border=true&theme=nord" /></a>
-
-<br/>
-<br/>
 
