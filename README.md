@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on everyone 
 
-- 🥅 2021 Goals: expect everything about OOP. This year is 2022, i'm still noob on OOP
+- 🥅 2021 Goals: expert everything about OOP. This year is 2022, i'm still noob OOP
 
 - 🥅 2021 Goals: get 600 TOIEC. 🖕 Code
 
