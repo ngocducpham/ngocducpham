@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on everyone 
 
-- 🥅 2022 Goals: become a blockchain developer
+- 🥅 2022 Goals: make a web3
 
 
 ## ❤ Connect with me:
