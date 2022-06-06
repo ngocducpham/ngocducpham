@@ -11,11 +11,8 @@
 
 - 👯 I’m looking to collaborate on everyone 
 
-- 🥅 2021 Goals: expert everything about OOP. This year is 2022, i'm still noob OOP
+- 🥅 2022 Goals: become a blockchain developer
 
-- 🥅 2021 Goals: get 600 TOIEC. 🖕 Code
-
-- ⚡ Fun fact: I’m a weeb 😝
 
 ## ❤ Connect with me:
  <a href="https://www.youtube.com/channel/UCYme_m8SBYDCYfxXYiU5YEg" target="_blank"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/> </a>
